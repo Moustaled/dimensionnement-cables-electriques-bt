@@ -88,4 +88,4 @@ Etude_installation_electrique_BT_Moustapha_IBRAHIM_DJAMA_Thomas_DHUNARA/
 
 ---
 
-*Étude pédagogique en cours. Les références externes ne valent ni preuve de réalisation personnelle ni validation réglementaire ou d’exécution.*
+
